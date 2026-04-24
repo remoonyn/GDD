@@ -1,0 +1,94 @@
+Иерархия папок в проекте на Unreal Engine 5
+
+- Content 
+	- Animations
+		- Gesture
+		- Combat
+		- Idle
+		- Movement
+	- Blueprints
+		- AI (BP_Passive, BP_Agressive, BP_Boss)
+		- General (Character, Controller)
+		- Gamemodes (Gamemode, Player_State, Game_State, Game_Instance)
+		- Components
+			- Containers
+			- Stats
+			- Proffesions
+			- Weapons
+			- Interactable
+		- Structures
+			- Tables (S_T_Items)
+			- Items
+		- Enumerations
+			- Items (E_ItemType etc)
+		- Interfaces
+			1. Character
+			2. Controller
+			3. Harvesting
+			4. 
+	- DataAssets (PDA_Items, etc.)
+		- Childs
+			- Items (DA_Sword, DA_Helmet etc) *"Структура постоянных параметров предмета"*
+			- Harvestings (DAH_Grass, DAH_Rock) *"Массив получаемых исходных предметов (ID, Icon, Quantity) при сборе чего либо"*
+			- Skills (DAS_Skill_01 etc) *"Структура постоянных параметров способностей"*
+			- Recipies (DAR_Sword, DAR_Helmet etc) *"Структура постоянных параметров для рецептов"*
+			- etc
+	- DataTables
+		- Items
+		- Experience
+		- Etc
+	- Characters
+		- Animals
+			- Deers
+			- Wolfs
+			- etc.
+		- Races
+			- Male_Human
+			- Male_Elf
+			- Male_Orc
+			- Male_Demon
+			- Female_Human
+			- Female_Elf
+			- Female_Orc
+			- Female_Demon
+		- Monsters
+			- Skeletons
+			- Zombies
+			- etc.
+		- NPC
+			- Humans
+			- Creatures
+	- VFX
+		- Ability
+		- Other
+		- etc.
+	- Sounds
+		- Actions
+		- Music
+		- etc.
+	- Inputs
+		- Actions
+		- Mappings
+	- Maps
+		- World
+		- Mansion
+		- City
+		- Capital
+		- Dungeon
+		- Arena
+	- Meshes
+		- Folliage
+			- Grass
+			- Rocks
+			- etc.
+		- Gameplay
+			- Trees 
+				- Tree_01 (Static Mesh / Skeletal Mesh)
+				- Materials (Material_{Mesh Name})
+					- Textures
+				- Tree_02
+				- Tree_03
+			- Rocks
+			- Buildings
+			- Weapons
+			- etc.

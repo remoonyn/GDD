@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"dfc1429e062e763a","type":"text","text":"State\nСостояние персонажа. Например: бег, оглушение, смерть и т.д.","x":-212,"y":-132,"width":250,"height":132},
+		{"id":"d362e7502dd69d3e","type":"text","text":"State.Death\nState.Stunned","x":-212,"y":100,"width":250,"height":220},
+		{"id":"9ef2fb06524748a6","type":"text","text":"Ability\nОбщие умения персонажа, любые действия которые можно совершать.","x":70,"y":-132,"width":250,"height":132},
+		{"id":"0f45748d4ffcf32a","type":"text","text":"Skill\nБоевые умения, каждого оружия","x":360,"y":-132,"width":250,"height":132},
+		{"id":"d0329dfd5cafa7e6","type":"text","text":"Skill.Weapon\n","x":360,"y":100,"width":250,"height":220},
+		{"id":"d7732fd250389c35","type":"text","text":"Skill.Weapon.Sword\nSkill.Weapon.Grimoire\nSkill.Weapon.Rapier\n\n","x":360,"y":400,"width":250,"height":220},
+		{"id":"fed1d3c66f7f78c8","type":"text","text":"Skill.Weapon.Sword.Strike\nSkill.Weapon.Sword.Charge\n\n\n\n","x":360,"y":700,"width":250,"height":220}
+	],
+	"edges":[
+		{"id":"1fab482478a2ce47","fromNode":"dfc1429e062e763a","fromSide":"bottom","toNode":"d362e7502dd69d3e","toSide":"top"},
+		{"id":"8f80c011738e9b66","fromNode":"0f45748d4ffcf32a","fromSide":"bottom","toNode":"d0329dfd5cafa7e6","toSide":"top"},
+		{"id":"1a6d7abe2180edb9","fromNode":"d0329dfd5cafa7e6","fromSide":"bottom","toNode":"d7732fd250389c35","toSide":"top"},
+		{"id":"d2f9030bf3529cc0","fromNode":"d7732fd250389c35","fromSide":"bottom","toNode":"fed1d3c66f7f78c8","toSide":"top"}
+	]
+}

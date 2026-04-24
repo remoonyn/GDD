@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "5ce3aab0524c1046",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a2b7e3874396faa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b713a6d4eb298c47",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1 Game Design/Building.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 280,
+                  "zoom": -2.809313775095661
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Building"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96522813a4b34429",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e150c2b85243335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8c6d9763ff3e94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "72b40187f56a4a32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c6fbed482d8fda25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "d2cc4c8981d3690e",
+    "type": "split",
+    "children": [
+      {
+        "id": "396e91efdd9d208a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546b35d7e83eb07a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "5129f6503c7713b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2aac6af7b4a46514",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "56f279bd64a8fba8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "b713a6d4eb298c47",
+  "lastOpenFiles": [
+    "1 Game Design/Economy.canvas",
+    "2 Technical Design/General.canvas",
+    "3 Features/Planned.canvas",
+    "1 Game Design/Controls.md",
+    "Без названия",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Crafting.canvas",
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/PvP.canvas",
+    "2 Technical Design/Servers.canvas",
+    "1 Game Design/Quests.canvas",
+    "Obsidian/3 Features",
+    "Obsidian/2 Technical Design/Content Browser.md",
+    "Obsidian/2 Technical Design",
+    "Obsidian/1 Game Design/Controls.md",
+    "Obsidian/1 Game Design",
+    "Obsidian",
+    "2 Technical Design/Content Browser.md",
+    "3 Features",
+    "Zettelkasten/Регламент.md",
+    "Zettelkasten/Development.md",
+    "Zettelkasten/Ref Notice.md",
+    "Zettelkasten/Tags.md",
+    "Zettelkasten/Test.md",
+    "Zettelkasten/General Information.md",
+    "2 Dev Technical Part/Без названия.base",
+    "2 Dev Technical Part 1",
+    "1 Game Design 1",
+    "Templates/Notice.md",
+    "Zettelkasten/2026-02-02.md",
+    "Zettelkasten/Без названия 1.base",
+    "Zettelkasten/йпва.md",
+    "Zettelkasten/Без названия 1.md",
+    "Zettelkasten/Без названия 3.md",
+    "Zettelkasten/Без названия 2.md",
+    "Zettelkasten/gdf.md",
+    "Zettelkasten/Без названияjhgjgh.md",
+    "Notices/fhdghgfhfg.md",
+    "Notices/Без названияhgf.md",
+    "Без названия.md",
+    "2025-10-23.md",
+    "Civil 3D/Без названия.md",
+    "Добро пожаловать.md"
+  ]
+}

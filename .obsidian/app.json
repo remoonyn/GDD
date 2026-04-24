@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "autoConvertHtml": false,
+  "spellcheck": false,
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

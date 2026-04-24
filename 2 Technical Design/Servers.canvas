@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"6ae99cb30a314f4c","type":"text","text":"<font size=11><center>Серверная архитектура</center><font size=11>\n","x":-760,"y":-880,"width":720,"height":140,"color":"5"},
+		{"id":"8a70a302d77d9f36","type":"text","text":"<font size=5><center>Сервер аутентификаций</center><font size=5>\n","x":-580,"y":-520,"width":360,"height":100,"color":"5"},
+		{"id":"0f2ad893fc4a8038","type":"text","text":"<font size=5><center>Игровые сервера</center><font size=5>","x":-580,"y":-81,"width":360,"height":100,"color":"5"},
+		{"id":"c720878b84ae2f60","type":"text","text":"Основаная база данных PostgreSQL\n- Хранит всю информацию об игровых аккаунтов игроков и их прогрессе/данных в игре\n- Необходимо для того чтобы игрок не терял прогресс при краше игры\n- Переодичность сохранения определяется важностью данных\n- Хранит общую информацию всех игровых серверов, такую как аукцион, гильдии, рейтинги и т.д. \n- Поделена на множество таблиц\n- При создании аккаунта присваивается идендификатор типа (BIGINT) \n- Храниться на отдельном физическом сервере от любых других серверов и БД\n- Требует большое количество SSD памяти и хорошего интернет соеденения","x":1000,"y":-602,"width":660,"height":268},
+		{"id":"65d97bbaffaab6fb","type":"text","text":"<font size=5><center>Социальный сервер</center><font size=5>\n","x":-1090,"y":160,"width":360,"height":100,"color":"5"},
+		{"id":"9ed55a9f515a7cfa","type":"text","text":"Социальный сервер\nОбеспечивает функциональную работу социальных взаимодействий игроков \n\n- Отправка и получение сообщений \n- Отправка и получение приглашений (группа, гильдия, дуэль и т.д.)\n- Друзья\n- Группы\n- Рейтинги\n- Гильдии\n- Обявление гильдийных войн, осад","x":-1720,"y":19,"width":500,"height":382,"color":"5"},
+		{"id":"16f4739098ca910b","type":"text","text":"<font size=5><center>Многоканальный уровневый сервер</center><font size=5>","x":-210,"y":760,"width":360,"height":140,"color":"5"},
+		{"id":"2f23d0b222b8b13f","type":"text","text":"Основаная база данных PostgreSQL\n- Частое обновление для важных \"горячих\" данных игрока (предметы, опыт, деньги) раз в 5-10 минут\n- Средней частоты обновления для менее важных данных\n- Редкие обновления для \"холодных\" данных \n","x":-720,"y":1230,"width":660,"height":268},
+		{"id":"ab93f94dc9256a84","type":"text","text":"<font size=5><center>Многоканальный уровневый сервер</center><font size=5>","x":-930,"y":760,"width":360,"height":140,"color":"5"},
+		{"id":"82b6b4e87a62fa83","type":"text","text":"<font size=5><center>Многоканальный уровневый сервер</center><font size=5>","x":-570,"y":760,"width":360,"height":140,"color":"5"},
+		{"id":"268cffecc38e6220","type":"text","text":"Методы сервера аутентификации\n\n1. Создание игрового аккаунта с кэшированым пароля\n2. Авторизация на сайте\n3. Авторизация в игре (получение токена на доступ к игровым серверам)\n4. Покупка игровой валюты на сайте/в магазине в игре\n5. Покупка внутриигровых предметов в магазине  на сайте/в магазине\n6. Смена пароля/email\n7. Удаление аккаунта на сайте\n8. Двухфакторная авторизация через номер телефона\n9. Просмотр истории авторизации/зачислений/покупок\n10. Временные и постоянные блокировки аккаунтов","x":-60,"y":-661,"width":500,"height":382,"color":"5"},
+		{"id":"f7c163c7b1e9d246","type":"text","text":"Игровой сервер\n- Представляет собой несколько физических серверов\n- У каждого сервера своя зона ответсвенности\n- Уровневые сервера - основные игровые сервера, где на каждом сервере (канале) храниться своя копия игры\n- Игроки способны перемещаться между серверами\n- Количество уровневых серверов каналов и вместительность каждого определяется в ходе тестирования","x":-60,"y":-222,"width":500,"height":382,"color":"5"},
+		{"id":"cbb60ab86a4760f8","type":"text","text":"Оперативная база данных Redis / Memcashed / Dragonfly\n- Отдельный сервер\n- Быстрая кэшерующая база данных для \"горячих\" данных в игре\n\nДанные:\n- Онлайн статусы игроков\n- Ключи авторизации\n- Счетчики (войны, осады, арены, батлграунды)\n- Рейтинги\n- Аукцион\n- Гильдии","x":480,"y":320,"width":560,"height":340}
+	],
+	"edges":[
+		{"id":"3d501d8179e52dda","fromNode":"6ae99cb30a314f4c","fromSide":"bottom","toNode":"8a70a302d77d9f36","toSide":"top"},
+		{"id":"360b22230fd77304","fromNode":"8a70a302d77d9f36","fromSide":"bottom","toNode":"0f2ad893fc4a8038","toSide":"top"},
+		{"id":"f4bae1b28c17d57f","fromNode":"268cffecc38e6220","fromSide":"left","toNode":"8a70a302d77d9f36","toSide":"right"},
+		{"id":"456b00574559852f","fromNode":"268cffecc38e6220","fromSide":"right","toNode":"c720878b84ae2f60","toSide":"left","label":"API"},
+		{"id":"932de6b0a6d3d554","fromNode":"0f2ad893fc4a8038","fromSide":"left","toNode":"65d97bbaffaab6fb","toSide":"top"},
+		{"id":"6b7f5ccc85c59797","fromNode":"0f2ad893fc4a8038","fromSide":"bottom","toNode":"ab93f94dc9256a84","toSide":"top"},
+		{"id":"a9c726b02a97d8ee","fromNode":"0f2ad893fc4a8038","fromSide":"bottom","toNode":"82b6b4e87a62fa83","toSide":"top"},
+		{"id":"53f41b7b9d441c50","fromNode":"0f2ad893fc4a8038","fromSide":"bottom","toNode":"16f4739098ca910b","toSide":"top"},
+		{"id":"0f2581ca2faee67b","fromNode":"f7c163c7b1e9d246","fromSide":"left","toNode":"0f2ad893fc4a8038","toSide":"right"},
+		{"id":"3cb53976294947d8","fromNode":"65d97bbaffaab6fb","fromSide":"bottom","toNode":"ab93f94dc9256a84","toSide":"top"},
+		{"id":"d7974e61c983c2f3","fromNode":"65d97bbaffaab6fb","fromSide":"bottom","toNode":"82b6b4e87a62fa83","toSide":"top"},
+		{"id":"0f9dc4aa63961982","fromNode":"65d97bbaffaab6fb","fromSide":"bottom","toNode":"16f4739098ca910b","toSide":"top"},
+		{"id":"b7e668e47dfa2107","fromNode":"9ed55a9f515a7cfa","fromSide":"right","toNode":"65d97bbaffaab6fb","toSide":"left"},
+		{"id":"1c4aed9d6e763032","fromNode":"ab93f94dc9256a84","fromSide":"bottom","toNode":"2f23d0b222b8b13f","toSide":"top"},
+		{"id":"e80a2bed608bed61","fromNode":"82b6b4e87a62fa83","fromSide":"bottom","toNode":"2f23d0b222b8b13f","toSide":"top"},
+		{"id":"6b970d7f345b7b97","fromNode":"16f4739098ca910b","fromSide":"bottom","toNode":"2f23d0b222b8b13f","toSide":"top"},
+		{"id":"05ec8de66875fb41","fromNode":"16f4739098ca910b","fromSide":"right","toNode":"cbb60ab86a4760f8","toSide":"left"},
+		{"id":"c7b029fc2013ef92","fromNode":"65d97bbaffaab6fb","fromSide":"right","toNode":"cbb60ab86a4760f8","toSide":"left"},
+		{"id":"6d0374861eba1fa0","fromNode":"cbb60ab86a4760f8","fromSide":"right","toNode":"c720878b84ae2f60","toSide":"bottom","label":"API"}
+	]
+}
