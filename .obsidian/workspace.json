@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Building.canvas",
+                "file": "1 Game Design/Other.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 280,
-                  "zoom": -2.809313775095661
+                  "x": -3507.402210204229,
+                  "y": 514.4042428315871,
+                  "zoom": 0.13778501437067303
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Building"
+              "title": "Other"
             }
           }
         ]
@@ -171,26 +171,26 @@
   },
   "active": "b713a6d4eb298c47",
   "lastOpenFiles": [
+    "2 Technical Design/Content Browser.md",
+    "1 Game Design/Attributes.canvas",
+    "README.md",
+    "1 Game Design/Building.canvas",
     "1 Game Design/Economy.canvas",
     "2 Technical Design/General.canvas",
     "3 Features/Planned.canvas",
     "1 Game Design/Controls.md",
     "Без названия",
-    "1 Game Design/Building.canvas",
     "1 Game Design/Crafting.canvas",
     "1 Game Design/Combat.canvas",
-    "1 Game Design/Attributes.canvas",
     "1 Game Design/PvE.canvas",
     "1 Game Design/PvP.canvas",
     "2 Technical Design/Servers.canvas",
-    "1 Game Design/Quests.canvas",
     "Obsidian/3 Features",
     "Obsidian/2 Technical Design/Content Browser.md",
     "Obsidian/2 Technical Design",
     "Obsidian/1 Game Design/Controls.md",
     "Obsidian/1 Game Design",
     "Obsidian",
-    "2 Technical Design/Content Browser.md",
     "3 Features",
     "Zettelkasten/Регламент.md",
     "Zettelkasten/Development.md",
