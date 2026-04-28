@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Other.canvas",
+                "file": "1 Game Design/Crafting.canvas",
                 "viewState": {
-                  "x": -3507.402210204229,
-                  "y": 514.4042428315871,
-                  "zoom": 0.13778501437067303
+                  "x": 1170.3650539635812,
+                  "y": -1026.6823002730616,
+                  "zoom": 0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Other"
+              "title": "Crafting"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "b713a6d4eb298c47",
   "lastOpenFiles": [
+    "1 Game Design/Other.canvas",
     "2 Technical Design/Content Browser.md",
     "1 Game Design/Attributes.canvas",
     "README.md",
