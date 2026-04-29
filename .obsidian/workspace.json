@@ -13,18 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Crafting.canvas",
+                "file": "1 Game Design/Combat.canvas",
                 "viewState": {
-                  "x": 1170.3650539635812,
-                  "y": -1026.6823002730616,
-                  "zoom": 0.33333333333333365
+                  "x": 4813.951984685382,
+                  "y": -3470.293467346938,
+                  "zoom": -1.269959726110902
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Crafting"
+              "title": "Combat"
+            }
+          },
+          {
+            "id": "cd44c96cbbb78cd0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1 Game Design/Profession.canvas",
+                "viewState": {
+                  "x": 3371.209603087173,
+                  "y": -903.047982835539,
+                  "zoom": -0.06044826763846245
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Profession"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,23 +187,28 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b713a6d4eb298c47",
+  "active": "cd44c96cbbb78cd0",
   "lastOpenFiles": [
-    "1 Game Design/Other.canvas",
-    "2 Technical Design/Content Browser.md",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/PvP.canvas",
+    "1 Game Design/Profession.canvas",
+    "1 Game Design/Combat_Skills_Sword.md",
+    "1 Game Design/Combat_Skills_Rapier.md",
+    "1 Game Design/Combat_Skills_Grimoire.md",
+    "1 Game Design/Combat_Skills_Gauntlet.md",
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Building.canvas",
     "1 Game Design/Attributes.canvas",
     "README.md",
-    "1 Game Design/Building.canvas",
+    "Без названия.base",
+    "Без названия.md",
+    "1 Game Design/Other.canvas",
+    "2 Technical Design/Content Browser.md",
     "1 Game Design/Economy.canvas",
     "2 Technical Design/General.canvas",
     "3 Features/Planned.canvas",
     "1 Game Design/Controls.md",
     "Без названия",
-    "1 Game Design/Crafting.canvas",
-    "1 Game Design/Combat.canvas",
-    "1 Game Design/PvE.canvas",
-    "1 Game Design/PvP.canvas",
-    "2 Technical Design/Servers.canvas",
     "Obsidian/3 Features",
     "Obsidian/2 Technical Design/Content Browser.md",
     "Obsidian/2 Technical Design",
@@ -204,18 +227,12 @@
     "1 Game Design 1",
     "Templates/Notice.md",
     "Zettelkasten/2026-02-02.md",
-    "Zettelkasten/Без названия 1.base",
     "Zettelkasten/йпва.md",
     "Zettelkasten/Без названия 1.md",
     "Zettelkasten/Без названия 3.md",
     "Zettelkasten/Без названия 2.md",
     "Zettelkasten/gdf.md",
     "Zettelkasten/Без названияjhgjgh.md",
-    "Notices/fhdghgfhfg.md",
-    "Notices/Без названияhgf.md",
-    "Без названия.md",
-    "2025-10-23.md",
-    "Civil 3D/Без названия.md",
-    "Добро пожаловать.md"
+    "Notices/fhdghgfhfg.md"
   ]
 }
