@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Building.canvas",
+                "file": "1 Game Design/Attributes.canvas",
                 "viewState": {
-                  "x": 27.904325421993974,
-                  "y": 811.934984052651,
-                  "zoom": -0.18032171482736808
+                  "x": -1757.8626077420504,
+                  "y": 2990.157163258946,
+                  "zoom": 0.04609641458945346
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Building"
+              "title": "Attributes"
             }
           }
         ]
@@ -171,22 +171,21 @@
   },
   "active": "cd44c96cbbb78cd0",
   "lastOpenFiles": [
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Guild.canvas",
     "1 Game Design/Inventory.canvas",
-    "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Combat_Skills_Grimoire.md",
-    "1 Game Design/Combat.canvas",
     "1 Game Design/Combat_Skills_Gauntlet.md",
     "1 Game Design/Combat_Skills_Sword.md",
     "1 Game Design/Controls.md",
     "1 Game Design/Attributes.canvas",
-    "1 Game Design/Building.canvas",
     "1 Game Design/TBD Relics.canvas",
     "1 Game Design/World.canvas",
     "1 Game Design/Quests.canvas",
     "1 Game Design/PvP.canvas",
     "1 Game Design/PvE.canvas",
-    "1 Game Design/Other.canvas",
     "README.md",
     "Без названия.base",
     "Без названия.md",
