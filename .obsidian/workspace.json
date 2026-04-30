@@ -8,41 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b713a6d4eb298c47",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1 Game Design/Combat.canvas",
-                "viewState": {
-                  "x": 4813.951984685382,
-                  "y": -3470.293467346938,
-                  "zoom": -1.269959726110902
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Combat"
-            }
-          },
-          {
             "id": "cd44c96cbbb78cd0",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Profession.canvas",
+                "file": "1 Game Design/Building.canvas",
                 "viewState": {
-                  "x": 3271.3887948866077,
-                  "y": -979.0324845531433,
-                  "zoom": -0.06044826763846245
+                  "x": 27.904325421993974,
+                  "y": 811.934984052651,
+                  "zoom": -0.18032171482736808
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Profession"
+              "title": "Building"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,25 +171,26 @@
   },
   "active": "cd44c96cbbb78cd0",
   "lastOpenFiles": [
-    "1 Game Design/PvE.canvas",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/Profession.canvas",
-    "1 Game Design/Combat_Skills_Sword.md",
+    "1 Game Design/Guild.canvas",
+    "1 Game Design/Inventory.canvas",
     "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Combat_Skills_Grimoire.md",
-    "1 Game Design/Combat_Skills_Gauntlet.md",
     "1 Game Design/Combat.canvas",
-    "1 Game Design/Building.canvas",
+    "1 Game Design/Combat_Skills_Gauntlet.md",
+    "1 Game Design/Combat_Skills_Sword.md",
+    "1 Game Design/Controls.md",
     "1 Game Design/Attributes.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/TBD Relics.canvas",
+    "1 Game Design/World.canvas",
+    "1 Game Design/Quests.canvas",
+    "1 Game Design/PvP.canvas",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/Other.canvas",
     "README.md",
     "Без названия.base",
     "Без названия.md",
-    "1 Game Design/Other.canvas",
     "2 Technical Design/Content Browser.md",
-    "1 Game Design/Economy.canvas",
-    "2 Technical Design/General.canvas",
-    "3 Features/Planned.canvas",
-    "1 Game Design/Controls.md",
     "Без названия",
     "Obsidian/3 Features",
     "Obsidian/2 Technical Design/Content Browser.md",
