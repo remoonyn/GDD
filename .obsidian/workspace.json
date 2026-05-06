@@ -8,20 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd44c96cbbb78cd0",
+            "id": "ecb4622931af892d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 Game Design/Attributes.canvas",
-                "viewState": {
-                  "x": -3478.556460348627,
-                  "y": 2082.596753725572,
-                  "zoom": 0.3794297479227868
+                "file": "1 Game Design/Controls.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Attributes"
+              "icon": "lucide-file",
+              "title": "Controls"
             }
           }
         ]
@@ -56,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "статусы",
+                "query": "tag:#anim_cancel",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,29 +176,30 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cd44c96cbbb78cd0",
+  "active": "ecb4622931af892d",
   "lastOpenFiles": [
-    "1 Game Design/Inventory.canvas",
-    "1 Game Design/Motivation.canvas",
-    "1 Game Design/Profession.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/World.canvas",
-    "2 Technical Design/Servers.canvas",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/Building.canvas",
-    "1 Game Design/Combat.canvas",
-    "1 Game Design/Guild.canvas",
+    "1 Game Design/Tasks.md",
     "1 Game Design/Other.canvas",
-    "1 Game Design/PvE.canvas",
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/Controls.md",
+    "1 Game Design/Economy.canvas",
+    "1 Game Design/World.canvas",
+    "1 Game Design/Profession.canvas",
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Motivation.canvas",
+    "1 Game Design/Inventory.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Guild.canvas",
+    "1 Game Design/Narrative.md",
+    "1 Game Design/Combat_Skills_Gauntlet.md",
+    "README.md",
+    "2 Technical Design/Content Browser.md",
+    "1 Game Design/Combat_Skills_Sword.md",
     "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Combat_Skills_Grimoire.md",
-    "1 Game Design/Combat_Skills_Gauntlet.md",
-    "1 Game Design/Combat_Skills_Sword.md",
-    "README.md",
+    "Без названия",
     "Без названия.base",
     "Без названия.md",
-    "2 Technical Design/Content Browser.md",
-    "Без названия",
     "Obsidian/3 Features",
     "Obsidian/2 Technical Design/Content Browser.md",
     "Obsidian/2 Technical Design",
@@ -214,8 +222,6 @@
     "Zettelkasten/Без названия 1.md",
     "Zettelkasten/Без названия 3.md",
     "Zettelkasten/Без названия 2.md",
-    "Zettelkasten/gdf.md",
-    "Zettelkasten/Без названияjhgjgh.md",
-    "Notices/fhdghgfhfg.md"
+    "Zettelkasten/gdf.md"
   ]
 }
