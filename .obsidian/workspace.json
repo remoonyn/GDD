@@ -11,24 +11,17 @@
             "id": "ecb4622931af892d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1 Game Design/Controls.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1 Game Design/Profession.canvas",
+                "viewState": {
+                  "x": -2111.9435431455204,
+                  "y": 613.6331601416686,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
-              "icon": "lucide-file",
-              "title": "Controls"
+              "icon": "lucide-layout-dashboard",
+              "title": "Profession"
             }
           }
         ]
@@ -178,20 +171,21 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
-    "1 Game Design/Tasks.md",
-    "1 Game Design/Other.canvas",
     "1 Game Design/Attributes.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/Economy.canvas",
     "1 Game Design/World.canvas",
+    "1 Game Design/TBD Relics.canvas",
+    "1 Game Design/Quests.canvas",
+    "1 Game Design/PvE.canvas",
     "1 Game Design/Profession.canvas",
-    "1 Game Design/Combat.canvas",
-    "1 Game Design/Motivation.canvas",
+    "1 Game Design/Other.canvas",
     "1 Game Design/Inventory.canvas",
-    "1 Game Design/Building.canvas",
+    "1 Game Design/Economy.canvas",
     "1 Game Design/Guild.canvas",
-    "1 Game Design/Narrative.md",
+    "1 Game Design/Combat.canvas",
     "1 Game Design/Combat_Skills_Gauntlet.md",
+    "1 Game Design/Tasks.md",
+    "1 Game Design/Controls.md",
+    "1 Game Design/Narrative.md",
     "README.md",
     "2 Technical Design/Content Browser.md",
     "1 Game Design/Combat_Skills_Sword.md",
