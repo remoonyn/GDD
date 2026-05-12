@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Profession.canvas",
+                "file": "1 Game Design/Building.canvas",
                 "viewState": {
-                  "x": 2180.2141747345036,
-                  "y": 1690.3447180964474,
-                  "zoom": 0.0027151807691961904
+                  "x": 0,
+                  "y": 280,
+                  "zoom": -1.8469883814940344
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Profession"
+              "title": "Building"
             }
           }
         ]
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Game Design/Building.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Building"
             }
           },
           {
@@ -172,20 +173,21 @@
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
     "1 Game Design/Combat.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/Inventory.canvas",
+    "1 Game Design/Profession.canvas",
+    "1 Game Design/Tasks.md",
+    "1 Game Design/TBD Relics.canvas",
     "1 Game Design/Combat_Skills_Sword.md",
     "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Combat_Skills_Grimoire.md",
     "1 Game Design/Combat_Skills_Gauntlet.md",
-    "1 Game Design/Profession.canvas",
     "1 Game Design/Motivation.canvas",
-    "1 Game Design/Tasks.md",
-    "1 Game Design/Attributes.canvas",
     "1 Game Design/World.canvas",
-    "1 Game Design/TBD Relics.canvas",
     "1 Game Design/Quests.canvas",
     "1 Game Design/PvE.canvas",
     "1 Game Design/Other.canvas",
-    "1 Game Design/Inventory.canvas",
     "1 Game Design/Controls.md",
     "1 Game Design/Narrative.md",
     "README.md",
