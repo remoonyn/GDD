@@ -15,9 +15,9 @@
               "state": {
                 "file": "1 Game Design/Attributes.canvas",
                 "viewState": {
-                  "x": -28.522281693934453,
-                  "y": 2276.0482869524103,
-                  "zoom": 0.3333333333333334
+                  "x": -27.33536445562507,
+                  "y": 2870.900351303475,
+                  "zoom": -0.28723691874387985
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -172,16 +172,16 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
+    "1 Game Design/Profession.canvas",
+    "1 Game Design/Attributes.canvas",
     "1 Game Design/Inventory.canvas",
     "1 Game Design/Guild.canvas",
     "1 Game Design/Economy.canvas",
     "1 Game Design/Controls.md",
-    "1 Game Design/Attributes.canvas",
     "1 Game Design/Building.canvas",
     "1 Game Design/Combat.canvas",
     "1 Game Design/World.canvas",
     "1 Game Design/Tasks.md",
-    "1 Game Design/Profession.canvas",
     "1 Game Design/Narrative.md",
     "1 Game Design/Motivation.canvas",
     "1 Game Design/TBD Relics.canvas",
