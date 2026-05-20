@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Attributes.canvas",
+                "file": "1 Game Design/World.canvas",
                 "viewState": {
-                  "x": -30.910578151107785,
-                  "y": 2984.093983130519,
-                  "zoom": 0.3794297479227868
+                  "x": -1252.3307019617887,
+                  "y": -1113.990937208567,
+                  "zoom": -0.03395916364817875
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Attributes"
+              "title": "World"
             }
           }
         ]
@@ -173,22 +173,23 @@
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
     "1 Game Design/Profession.canvas",
-    "1 Game Design/Attributes.canvas",
+    "1 Game Design/Other.canvas",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/PvP.canvas",
+    "1 Game Design/Quests.canvas",
+    "1 Game Design/Tasks.md",
+    "1 Game Design/World.canvas",
+    "1 Game Design/TBD Relics.canvas",
     "1 Game Design/Inventory.canvas",
     "1 Game Design/Guild.canvas",
     "1 Game Design/Economy.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/Building.canvas",
     "1 Game Design/Combat.canvas",
-    "1 Game Design/World.canvas",
-    "1 Game Design/Tasks.md",
-    "1 Game Design/Narrative.md",
-    "1 Game Design/Motivation.canvas",
-    "1 Game Design/TBD Relics.canvas",
+    "1 Game Design/Combat_Skills_Gauntlet.md",
     "1 Game Design/Combat_Skills_Sword.md",
     "1 Game Design/Combat_Skills_Rapier.md",
     "1 Game Design/Combat_Skills_Grimoire.md",
-    "1 Game Design/Combat_Skills_Gauntlet.md",
+    "1 Game Design/Controls.md",
+    "1 Game Design/Narrative.md",
     "README.md",
     "2 Technical Design/Content Browser.md",
     "Без названия",
