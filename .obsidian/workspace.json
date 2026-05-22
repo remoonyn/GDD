@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/World.canvas",
+                "file": "1 Game Design/Economy.canvas",
                 "viewState": {
-                  "x": -1252.3307019617887,
-                  "y": -1113.990937208567,
-                  "zoom": -0.03395916364817875
+                  "x": 2715.2817956607532,
+                  "y": -70.06009738766556,
+                  "zoom": 0.12110402782065866
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "World"
+              "title": "Economy"
             }
           }
         ]
@@ -172,23 +172,23 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
+    "1 Game Design/Controls.md",
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
+    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
+    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
+    "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
+    "1 Game Design/1.1 Combat Skills",
+    "1 Game Design/Economy.canvas",
     "1 Game Design/Profession.canvas",
-    "1 Game Design/Other.canvas",
-    "1 Game Design/PvE.canvas",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/Quests.canvas",
-    "1 Game Design/Tasks.md",
     "1 Game Design/World.canvas",
     "1 Game Design/TBD Relics.canvas",
-    "1 Game Design/Inventory.canvas",
-    "1 Game Design/Guild.canvas",
-    "1 Game Design/Economy.canvas",
-    "1 Game Design/Combat.canvas",
-    "1 Game Design/Combat_Skills_Gauntlet.md",
-    "1 Game Design/Combat_Skills_Sword.md",
-    "1 Game Design/Combat_Skills_Rapier.md",
-    "1 Game Design/Combat_Skills_Grimoire.md",
-    "1 Game Design/Controls.md",
+    "1 Game Design/PvP.canvas",
+    "1 Game Design/Other.canvas",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/Tasks.md",
     "1 Game Design/Narrative.md",
     "README.md",
     "2 Technical Design/Content Browser.md",
@@ -210,7 +210,6 @@
     "Zettelkasten/General Information.md",
     "2 Dev Technical Part/Без названия.base",
     "2 Dev Technical Part 1",
-    "1 Game Design 1",
     "Templates/Notice.md",
     "Zettelkasten/2026-02-02.md",
     "Zettelkasten/йпва.md",
