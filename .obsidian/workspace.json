@@ -11,17 +11,24 @@
             "id": "ecb4622931af892d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 Game Design/Economy.canvas",
-                "viewState": {
-                  "x": 2715.2817956607532,
-                  "y": -70.06009738766556,
-                  "zoom": 0.12110402782065866
+                "file": "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Economy"
+              "icon": "lucide-file",
+              "title": "1.1.1 Sword"
             }
           }
         ]
@@ -172,16 +179,16 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
+    "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
+    "1 Game Design/Economy.canvas",
     "1 Game Design/Controls.md",
     "1 Game Design/Combat.canvas",
     "1 Game Design/Building.canvas",
-    "1 Game Design/Attributes.canvas",
     "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
-    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
-    "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
     "1 Game Design/1.1 Combat Skills",
-    "1 Game Design/Economy.canvas",
     "1 Game Design/Profession.canvas",
     "1 Game Design/World.canvas",
     "1 Game Design/TBD Relics.canvas",
