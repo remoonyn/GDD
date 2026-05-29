@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
+                "file": "3 Features/Team.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1.2 Gauntlet"
+              "title": "Team"
             }
           }
         ]
@@ -179,9 +179,17 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
-    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
-    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
+    "3 Features/Planned.canvas",
+    "3 Features/References.md",
+    "1 Game Design/Quests.canvas",
+    "1 Game Design/Tasks.md",
+    "1 Game Design/TBD Relics.canvas",
+    "1 Game Design/World.canvas",
+    "3 Features/Team.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
+    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
+    "README.md",
+    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
     "1 Game Design/Attributes.canvas",
     "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
     "1 Game Design/Economy.canvas",
@@ -190,14 +198,9 @@
     "1 Game Design/Building.canvas",
     "1 Game Design/1.1 Combat Skills",
     "1 Game Design/Profession.canvas",
-    "1 Game Design/World.canvas",
-    "1 Game Design/TBD Relics.canvas",
     "1 Game Design/PvP.canvas",
     "1 Game Design/Other.canvas",
-    "1 Game Design/PvE.canvas",
-    "1 Game Design/Tasks.md",
     "1 Game Design/Narrative.md",
-    "README.md",
     "2 Technical Design/Content Browser.md",
     "Без названия",
     "Без названия.base",
@@ -221,8 +224,6 @@
     "Zettelkasten/2026-02-02.md",
     "Zettelkasten/йпва.md",
     "Zettelkasten/Без названия 1.md",
-    "Zettelkasten/Без названия 3.md",
-    "Zettelkasten/Без названия 2.md",
-    "Zettelkasten/gdf.md"
+    "Zettelkasten/Без названия 3.md"
   ]
 }
