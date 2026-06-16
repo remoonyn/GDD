@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Features/Team.md",
+                "file": "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Team"
+              "title": "1.1.3 Grimoire"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Game Design/Building.canvas",
+                "file": "1 Game Design/Attributes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Building"
+              "title": "Обратные ссылки для Attributes"
             }
           },
           {
@@ -179,30 +179,31 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
+    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
+    "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
+    "1 Game Design/Attributes.canvas",
+    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
+    "1 Game Design/Controls.md",
+    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
+    "1 Game Design/1.1 Combat Skills/1.1.5 Greatsword.md",
+    "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
+    "1 Game Design/Combat.canvas",
+    "1 Game Design/Без названия",
+    "1 Game Design/Narrative.md",
+    "1 Game Design/Inventory.canvas",
+    "3 Features/Team.md",
     "3 Features/Planned.canvas",
     "3 Features/References.md",
     "1 Game Design/Quests.canvas",
     "1 Game Design/Tasks.md",
     "1 Game Design/TBD Relics.canvas",
     "1 Game Design/World.canvas",
-    "3 Features/Team.md",
-    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
-    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
     "README.md",
-    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
-    "1 Game Design/Attributes.canvas",
-    "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
     "1 Game Design/Economy.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/Combat.canvas",
     "1 Game Design/Building.canvas",
     "1 Game Design/1.1 Combat Skills",
     "1 Game Design/Profession.canvas",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/Other.canvas",
-    "1 Game Design/Narrative.md",
     "2 Technical Design/Content Browser.md",
-    "Без названия",
     "Без названия.base",
     "Без названия.md",
     "Obsidian/3 Features",
@@ -222,8 +223,6 @@
     "2 Dev Technical Part 1",
     "Templates/Notice.md",
     "Zettelkasten/2026-02-02.md",
-    "Zettelkasten/йпва.md",
-    "Zettelkasten/Без названия 1.md",
-    "Zettelkasten/Без названия 3.md"
+    "Zettelkasten/йпва.md"
   ]
 }
