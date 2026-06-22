@@ -11,17 +11,24 @@
             "id": "ecb4622931af892d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 Game Design/Attributes.canvas",
-                "viewState": {
-                  "x": -1829,
-                  "y": 2948,
-                  "zoom": -2.014445127345597
+                "file": "1 Game Design/NPC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Attributes"
+              "icon": "lucide-file",
+              "title": "NPC"
             }
           }
         ]
@@ -172,24 +179,24 @@
   },
   "active": "ecb4622931af892d",
   "lastOpenFiles": [
+    "1 Game Design/Quests.canvas",
+    "1 Game Design/NPC.md",
+    "1 Game Design/Other.canvas",
+    "3 Features/Tasks.md",
+    "1 Game Design/Economy.canvas",
+    "1 Game Design/Guild.canvas",
+    "1 Game Design/Inventory.canvas",
+    "1 Game Design/PvE.canvas",
+    "1 Game Design/Profession.canvas",
+    "1 Game Design/Progression.canvas",
+    "1 Game Design/Building.canvas",
+    "1 Game Design/Narrative.md",
+    "1 Game Design/Controls.md",
     "1 Game Design/Combat.canvas",
     "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "3 Features/Team.md",
     "3 Features/References.md",
-    "3 Features/Planned.canvas",
     "README.md",
-    "1 Game Design/World.canvas",
-    "1 Game Design/Profession.canvas",
-    "1 Game Design/Other.canvas",
-    "1 Game Design/NPC.md",
-    "1 Game Design/Quests.canvas",
-    "1 Game Design/Tasks.md",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/Economy.canvas",
-    "1 Game Design/Guild.canvas",
-    "1 Game Design/Building.canvas",
-    "1 Game Design/Attributes.canvas",
     "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
     "1 Game Design/1.1 Combat Skills/1.1.6 Bow.md",
     "1 Game Design/1.1 Combat Skills/1.1.7 Shield.md",
@@ -199,7 +206,6 @@
     "1 Game Design/1.1 Combat Skills/1.1.4 Rapier.md",
     "1 Game Design/1.1 Combat Skills/1.1.5 Greatsword.md",
     "1 Game Design/Без названия",
-    "1 Game Design/Narrative.md",
     "1 Game Design/1.1 Combat Skills",
     "2 Technical Design/Content Browser.md",
     "Без названия.base",
