@@ -1,5 +1,5 @@
 # Obsidian
-Game Design Project
+Game Design Document
 
 Russian:
 1. Скачиваем архив проекта.
