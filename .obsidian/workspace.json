@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
+                "file": "2 Technical Design/Item Indexes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1.2 Gauntlet"
+              "title": "Item Indexes"
             }
           }
         ]
@@ -179,6 +179,9 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "2 Technical Design/General.canvas",
+    "3 Other/Unreal Engine 5 Technical Developer.md",
+    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
     "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
     "1 Game Design/Economy/Заказы.md",
     "1 Game Design/Economy/Economy.canvas",
@@ -193,11 +196,9 @@
     "1 Game Design/PvP.canvas",
     "1 Game Design/PvE.canvas",
     "1 Game Design/Quests.canvas",
-    "3 Other/Unreal Engine 5 Technical Developer.md",
     "2 Technical Design/Gameplay Tags.canvas",
     "2 Technical Design/Content Browser.md",
     "2 Technical Design/Item Indexes.md",
-    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
     "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
     "1 Game Design/Professions/1 Enchanter.md",
     "1 Game Design/Improvement.md",
