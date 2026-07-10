@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
+                "file": "3 Other/Technical Game Designer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0.0 References"
+              "title": "Technical Game Designer"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
     "3 Other/Technical Game Designer.md",
     "3 Other/Animation.md",
@@ -214,7 +215,6 @@
     "Enchanter.md",
     "1 Game Design/Professions",
     "1 Game Design/Narrative.md",
-    "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "1 Game Design/Professions/1.2 Profession Skill/1.2.0 Ideas.md",
     "1 Game Design/1.3 Recipes/1.3.1 Blacksmith.md",
     "1 Game Design/1.3 Recipes",
