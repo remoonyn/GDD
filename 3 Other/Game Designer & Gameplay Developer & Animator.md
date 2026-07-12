@@ -24,7 +24,6 @@ Hard-skills:
 - Анимация художественная: Sequencer UE5
 - Анимация техническая: Animation Blueprint, State Mashine, Blendspace, Locomotion, Animation Montage + GAS Framework
 - Data Driven 
-- Bus Event
 - Replication
 - Gameplay Ability System
 

@@ -11,24 +11,17 @@
             "id": "5bf52f029164b63a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3 Other/Game Designer & Gameplay Developer & Animator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1 Game Design/Building.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 280,
+                  "zoom": -1.8652701810696763
                 }
               },
-              "icon": "lucide-file",
-              "title": "Game Designer & Gameplay Developer & Animator"
+              "icon": "lucide-layout-dashboard",
+              "title": "Building"
             }
           }
         ]
@@ -177,17 +170,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5bf52f029164b63a",
+  "active": "ea8c6d9763ff3e94",
   "lastOpenFiles": [
+    "2 Technical Design/Item Indexes.md",
+    "3 Other/Game Designer & Gameplay Developer & Animator.md",
     "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
-    "3 Other/Game Designer & Gameplay Developer & Animator.md",
     "3 Other/Animation.md",
     "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
     "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
     "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
     "1 Game Design/Economy/Заказы.md",
-    "2 Technical Design/Item Indexes.md",
     "2 Technical Design/General.canvas",
     "1 Game Design/Economy/Economy.canvas",
     "1 Game Design/Economy",
