@@ -11,17 +11,24 @@
             "id": "5bf52f029164b63a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 Game Design/Building.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 280,
-                  "zoom": -1.8652701810696763
+                "file": "2 Technical Design/Item Indexes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Building"
+              "icon": "lucide-file",
+              "title": "Item Indexes"
             }
           }
         ]
@@ -170,13 +177,18 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ea8c6d9763ff3e94",
+  "active": "5bf52f029164b63a",
   "lastOpenFiles": [
-    "2 Technical Design/Item Indexes.md",
+    "2 Technical Design/Relics.canvas",
+    "2 Technical Design/Servers.canvas",
     "3 Other/Game Designer & Gameplay Developer & Animator.md",
+    "3 Other/Animation.md",
+    "3 Other/Team.md",
+    "3 Other/Tasks.md",
+    "1 Game Design/Building.canvas",
+    "2 Technical Design/Item Indexes.md",
     "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
-    "3 Other/Animation.md",
     "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
     "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
     "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
@@ -187,21 +199,17 @@
     "1 Game Design/Guild.canvas",
     "1 Game Design/Controls.md",
     "1 Game Design/Combat.canvas",
-    "1 Game Design/Building.canvas",
     "1 Game Design/World.canvas",
     "1 Game Design/VFX.md",
     "1 Game Design/Relics.canvas",
     "1 Game Design/PvP.canvas",
     "1 Game Design/PvE.canvas",
-    "1 Game Design/Quests.canvas",
     "2 Technical Design/Content Browser.md",
     "1 Game Design/Professions/1 Enchanter.md",
     "1 Game Design/Improvement.md",
     "1 Game Design/NPC.md",
     "README.md",
     "3 Other/Vertical.md",
-    "3 Other/Team.md",
-    "3 Other/Tasks.md",
     "1 Game Design/Professions/1.2 Profession Skill/1.2.2 Enchanter.md",
     "1 Game Design/Professions/1.2 Profession Skill/1.2.3 Tinker.md",
     "1 Game Design/Professions/1.2 Profession Skill/1.2.4 Alchemist.md",
@@ -209,7 +217,6 @@
     "1 Game Design/Professions",
     "1 Game Design/Narrative.md",
     "1 Game Design/Professions/1.2 Profession Skill/1.2.0 Ideas.md",
-    "1 Game Design/1.3 Recipes/1.3.1 Blacksmith.md",
     "1 Game Design/1.3 Recipes",
     "1 Game Design/1.2 Profession Skill/Без названия",
     "1 Game Design/Professions/1.2 Profession Skill",
