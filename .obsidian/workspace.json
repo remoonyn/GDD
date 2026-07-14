@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 Game Design/Building.canvas",
+                "file": "1 Game Design/Life Skills/Profession.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 280,
-                  "zoom": -1.8652701810696763
+                  "x": -10037.395312160605,
+                  "y": 2375.3161354556737,
+                  "zoom": -0.8800139484001082
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Building"
+              "title": "Profession"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#anim_cancel",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 292.5
   },
   "right": {
     "id": "d2cc4c8981d3690e",
@@ -170,53 +170,52 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ea8c6d9763ff3e94",
+  "active": "5bf52f029164b63a",
   "lastOpenFiles": [
-    "2 Technical Design/Item Indexes.md",
-    "3 Other/Game Designer & Gameplay Developer & Animator.md",
-    "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
-    "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
-    "3 Other/Animation.md",
-    "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
-    "1 Game Design/1.1 Combat Skills/1.1.1 Sword.md",
-    "1 Game Design/1.1 Combat Skills/1.1.0 Keys.md",
-    "1 Game Design/Economy/Заказы.md",
-    "2 Technical Design/General.canvas",
-    "1 Game Design/Economy/Economy.canvas",
-    "1 Game Design/Economy",
-    "1 Game Design/Guild.canvas",
-    "1 Game Design/Controls.md",
-    "1 Game Design/Combat.canvas",
-    "1 Game Design/Building.canvas",
-    "1 Game Design/World.canvas",
-    "1 Game Design/VFX.md",
-    "1 Game Design/Relics.canvas",
-    "1 Game Design/PvP.canvas",
-    "1 Game Design/PvE.canvas",
-    "1 Game Design/Quests.canvas",
-    "2 Technical Design/Content Browser.md",
-    "1 Game Design/Professions/1 Enchanter.md",
-    "1 Game Design/Improvement.md",
-    "1 Game Design/NPC.md",
-    "README.md",
-    "3 Other/Vertical.md",
-    "3 Other/Team.md",
+    "1 Game Design/Life Skills/Crafting.md",
+    "1 Game Design/Life Skills/Harvesting.md",
+    "1 Game Design/Life Skills/Profession.canvas",
+    "1 Game Design/Life Skills/1 Professions/0 Description.md",
+    "1 Game Design/Life Skills/1 Professions/10 Gatherer.md",
+    "1 Game Design/Life Skills/1 Professions/11 Gardener.md",
+    "1 Game Design/Life Skills/1 Professions/8 Fisherman.md",
+    "1 Game Design/Life Skills/1 Professions/7 Miner.md",
+    "1 Game Design/Life Skills/1 Professions/6 Lumberjack.md",
+    "1 Game Design/Life Skills/1 Professions/9 Hunter.md",
+    "1 Game Design/Life Skills/1 Professions/12 Breeder.md",
+    "1 Game Design/Life Skills/3 Profession Skill/9 Fisherman.md",
+    "1 Game Design/Life Skills/3 Profession Skill/8 Hunter.md",
+    "1 Game Design/Life Skills/3 Profession Skill/7 Miner.md",
+    "1 Game Design/Life Skills/Profession Levels.md",
+    "1 Game Design/Life Skills/3 Profession Skill/6 Lumberjack.md",
+    "1 Game Design/Life Skills/2 Recipes/0 Description.md",
+    "1 Game Design/Improvement/5 Food.md",
+    "1 Game Design/Improvement/6 Combat Skills.md",
+    "1 Game Design/Improvement/7 Profession.md",
+    "1 Game Design/Improvement/1 Improvement.md",
+    "1 Game Design/Improvement/4 Potion.md",
+    "1 Game Design/Life Skills/1 Professions/5 Cook.md",
+    "3 Other/Resume.md",
     "3 Other/Tasks.md",
-    "1 Game Design/Professions/1.2 Profession Skill/1.2.2 Enchanter.md",
-    "1 Game Design/Professions/1.2 Profession Skill/1.2.3 Tinker.md",
-    "1 Game Design/Professions/1.2 Profession Skill/1.2.4 Alchemist.md",
-    "Enchanter.md",
-    "1 Game Design/Professions",
-    "1 Game Design/Narrative.md",
-    "1 Game Design/Professions/1.2 Profession Skill/1.2.0 Ideas.md",
-    "1 Game Design/1.3 Recipes/1.3.1 Blacksmith.md",
-    "1 Game Design/1.3 Recipes",
-    "1 Game Design/1.2 Profession Skill/Без названия",
-    "1 Game Design/Professions/1.2 Profession Skill",
-    "1 Game Design/1.1 Combat Skills",
-    "Без названия.base",
-    "Obsidian/3 Features",
-    "Obsidian/2 Technical Design",
-    "Obsidian/1 Game Design"
+    "3 Other/Milestones.canvas",
+    "README.md",
+    "1 Game Design/Widgets",
+    "2 Technical Design/Relics.canvas",
+    "2 Technical Design/Servers.canvas",
+    "2 Technical Design/General.canvas",
+    "2 Technical Design/Gameplay Tags.canvas",
+    "1 Game Design/Combat/Combat.canvas",
+    "1 Game Design/Combat/Combat Skills/Skills",
+    "1 Game Design/Attributes/Attributes.canvas",
+    "1 Game Design/Life Skills/1 Professions",
+    "1 Game Design/General/Buildings.canvas",
+    "1 Game Design/General/Economy.canvas",
+    "1 Game Design/Combat",
+    "1 Game Design/General",
+    "1 Game Design/Attributes",
+    "1 Game Design/Improvement",
+    "1 Game Design/Economy",
+    "1 Game Design/Life Skills",
+    "1 Game Design/Life Skills/2 Recipes"
   ]
 }
