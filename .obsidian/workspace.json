@@ -11,17 +11,24 @@
             "id": "5bf52f029164b63a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 Game Design/Life Skills/Profession.canvas",
-                "viewState": {
-                  "x": -6418.221175276228,
-                  "y": -105.06100597226038,
-                  "zoom": -0.041765018396719866
+                "file": "3 Other/VFX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Profession"
+              "icon": "lucide-file",
+              "title": "VFX"
             }
           }
         ]
@@ -172,6 +179,7 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "1 Game Design/Life Skills/Profession.canvas",
     "2 Technical Design/Item Indexes.md",
     "2 Technical Design/Relics.canvas",
     "2 Technical Design/Servers.canvas",
