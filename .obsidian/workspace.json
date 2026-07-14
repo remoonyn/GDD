@@ -11,24 +11,17 @@
             "id": "5bf52f029164b63a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2 Technical Design/Item Indexes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1 Game Design/Life Skills/Profession.canvas",
+                "viewState": {
+                  "x": -6418.221175276228,
+                  "y": -105.06100597226038,
+                  "zoom": -0.041765018396719866
                 }
               },
-              "icon": "lucide-file",
-              "title": "Item Indexes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Profession"
             }
           }
         ]
@@ -179,6 +172,7 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "2 Technical Design/Item Indexes.md",
     "2 Technical Design/Relics.canvas",
     "2 Technical Design/Servers.canvas",
     "3 Other/Game Designer & Gameplay Developer & Animator.md",
@@ -186,7 +180,6 @@
     "3 Other/Team.md",
     "3 Other/Tasks.md",
     "1 Game Design/Building.canvas",
-    "2 Technical Design/Item Indexes.md",
     "1 Game Design/1.1 Combat Skills/1.0.0 References.md",
     "1 Game Design/1.1 Combat Skills/1.1.2 Gauntlet.md",
     "1 Game Design/1.1 Combat Skills/1.1.3 Grimoire.md",
@@ -203,7 +196,6 @@
     "1 Game Design/VFX.md",
     "1 Game Design/Relics.canvas",
     "1 Game Design/PvP.canvas",
-    "1 Game Design/PvE.canvas",
     "2 Technical Design/Content Browser.md",
     "1 Game Design/Professions/1 Enchanter.md",
     "1 Game Design/Improvement.md",
