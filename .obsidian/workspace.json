@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/Life Skills/Mastering.md",
+                "file": "1 Game Design/Life Skills/3 Profession Skill/3 Tinker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mastering"
+              "title": "3 Tinker"
             }
           }
         ]
@@ -179,6 +179,10 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "1 Game Design/Life Skills/3 Profession Skill/5 Cook.md",
+    "1 Game Design/Life Skills/1 Professions/3 Tinker.md",
+    "1 Game Design/Life Skills/1 Professions/2 Enchanter.md",
+    "1 Game Design/Life Skills/Mastering.md",
     "1 Game Design/Life Skills/Life Skills Leagues.md",
     "1 Game Design/Life Skills/Refining & Salvaging.md",
     "1 Game Design/Life Skills/Resource Sink.md",
@@ -205,14 +209,10 @@
     "1 Game Design/Improvement/3 Gems.md",
     "1 Game Design/Improvement/4 Potion.md",
     "1 Game Design/Improvement/5 Food.md",
-    "1 Game Design/Life Skills/Mastering.md",
     "3 Other/VFX.md",
     "1 Game Design/Life Skills/Profession.canvas",
-    "2 Technical Design/Item Indexes.md",
     "2 Technical Design/Relics.canvas",
     "2 Technical Design/Servers.canvas",
-    "3 Other/Game Designer & Gameplay Developer & Animator.md",
-    "3 Other/Team.md",
     "1 Game Design/Building.canvas",
     "2 Technical Design/General.canvas",
     "1 Game Design/Economy",
