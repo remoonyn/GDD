@@ -68,3 +68,34 @@ VFX Artist:
  Звукорежиссер:
  - Оформление всех звуковых эффектов в игре
 
+Стэк 3D Artist:
+- Модделинг: Blender или аналог (Maya, 3ds Max)
+- Модделинг персонажей: ZBrush или аналог (Blender)
+- Текстурирование: Substance Designer & Painter или аналоги
+- Одежда: Marvelous Designer или аналог
+
+Навыки 3D Artist:
+- Ретопология
+- Запекание
+- UV-развертка
+- Понимание PBR
+- Оптимизация в UE5 в части моделей и текстур (LOD, Draw Calls, texture size)
+- 
+
+Стэк 3D Animartor:
+- Анимация (художественная): Maya или аналог
+- Анимация (техническая): Unreal Engine 5 
+
+Навыки 3D Animartor (художественные):
+- Просто делать красиво!
+
+Навыки 3D Animartor (технические):
+- Animation Blueprint
+- Blendspace
+- State Mashine
+- Rigging, Skinning, Controllers, Constraints
+- Animation Notifies 
+- Sequencer 
+- Animation Layers и Override
+- Root Motion vs. In-Place
+- Motion Capture 
