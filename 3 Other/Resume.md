@@ -20,7 +20,7 @@ Pet Project — Action MMORPG (безымянный проект)
 Hard-skills:
 - Геймдизайн
 - Blueprints
-- С++
+- С++ в контексте UE5
 - Анимация художественная: Sequencer UE5
 - Анимация техническая: Animation Blueprint, State Mashine, Blendspace, Locomotion, Animation Montage + GAS Framework
 - Data Driven 
