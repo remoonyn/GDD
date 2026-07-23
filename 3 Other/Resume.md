@@ -3,7 +3,7 @@
 Специализация: Gameplay Designer / Technical Game Designer (Unreal Engine 5)
 
 О себе:
-Инди-разработчик игр на Unreal Engine 5. 
+Соло-разработчик игр на Unreal Engine 5. 
 В анамнезе 20+ лет игрового опыта в различных жанрах. 
 Любимые жанры и игры: 
 ММОРПГ: Blade & Soul, Black Desert Online, Lost Ark, Requiem Online
@@ -29,7 +29,7 @@ Hard-skills:
 
 Ссылки:
 - Гитхаб с геймдизайнерским проектом в Obsidian
-- Гитхаб с кодом игры на c++
+- Гитхаб с кодом игры на C++
 - Youtube с нарезками реализованных фич и конспектами, анимациями
 - Twitch с трансляциями разработки 
 - Discord мини сообщество 

@@ -80,14 +80,13 @@ VFX Artist:
 - UV-развертка
 - Понимание PBR
 - Оптимизация в UE5 в части моделей и текстур (LOD, Draw Calls, texture size)
-- 
 
 Стэк 3D Animartor:
 - Анимация (художественная): Maya или аналог
 - Анимация (техническая): Unreal Engine 5 
 
 Навыки 3D Animartor (художественные):
-- Просто делать красиво!
+- Делать красиво!
 
 Навыки 3D Animartor (технические):
 - Animation Blueprint
