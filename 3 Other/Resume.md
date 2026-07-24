@@ -35,3 +35,4 @@ Hard-skills:
 - Discord мини сообщество 
 - Itch.io - демо сборка игры
 
+https://spb.hh.ru/vacancy/134585328?hhtmFrom=vacancy_search_list
