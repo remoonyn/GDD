@@ -17,7 +17,7 @@
 Pet Project — Action MMORPG (безымянный проект)
 Июнь 2025 — Настоящее время
 
-Hard-skills:
+Skills:
 - Геймдизайн
 - Blueprints
 - С++ в контексте UE5

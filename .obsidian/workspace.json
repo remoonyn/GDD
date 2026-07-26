@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/Improvement/3 Gems.md",
+                "file": "1 Game Design/Widgets/Description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 Gems"
+              "title": "Description"
             }
           }
         ]
@@ -179,25 +179,29 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "1 Game Design/Widgets/Main Widgets.md",
+    "1 Game Design/Widgets/Description.md",
     "1 Game Design/Improvement/1 Improvement.md",
+    "1 Game Design/Life Skills/2 Recipes/0 Description.md",
+    "2 Technical Design/Content Browser.md",
+    "1 Game Design/General/Movement & Targeting.md",
+    "1 Game Design/General/Equipment Durablity.md",
+    "1 Game Design/General/Buildings.canvas",
+    "3 Other/Resume.md",
+    "1 Game Design/Improvement/3 Gems.md",
     "1 Game Design/Improvement/2 Equipment.md",
     "1 Game Design/Life Skills/2 Recipes/4 Alchemist.md",
     "1 Game Design/Life Skills/2 Recipes/3 Tinker.md",
     "1 Game Design/Life Skills/2 Recipes/2 Enchanter.md",
-    "1 Game Design/Life Skills/2 Recipes/0 Description.md",
-    "1 Game Design/Improvement/3 Gems.md",
     "1 Game Design/Life Skills/2 Recipes/1 Blacksmith.md",
     "1 Game Design/Life Skills/2 Recipes/5 Cook.md",
     "1 Game Design/Improvement/4 Potion.md",
     "1 Game Design/Improvement/5 Food.md",
     "1 Game Design/Improvement/6 Combat Skills.md",
-    "1 Game Design/General/Equipment Durablity.md",
     "1 Game Design/General/Equipment Slots.canvas",
     "1 Game Design/General/Economy.canvas",
     "1 Game Design/General/Horses.md",
     "1 Game Design/General/Guild.canvas",
-    "1 Game Design/General/Buildings.canvas",
-    "1 Game Design/General/Movement & Targeting.md",
     "1 Game Design/General/Movement State.md",
     "1 Game Design/General/Retention.md",
     "1 Game Design/General/VFX.md",
@@ -210,12 +214,8 @@
     "1 Game Design/General/NPC.md",
     "1 Game Design/General/Narrative.md",
     "1 Game Design/Combat/Features/Добивания.md",
-    "1 Game Design/Combat/Weapons/0 Weapon List.md",
-    "1 Game Design/Combat/Weapons/Shield.md",
-    "4 Graveyard/Без названия.md",
     "4 Graveyard",
     "1 Game Design/General/World.canvas",
-    "3 Other/Resume.md",
     "Files/ИС032 Грунт (стилобат).dwg",
     "Files",
     "Без названия.base",
