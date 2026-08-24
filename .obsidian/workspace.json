@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/Widgets/Description.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Description"
+              "title": "README"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
-    "1 Game Design/Widgets/Main Widgets.md",
     "1 Game Design/Widgets/Description.md",
+    "Tasks.md",
+    "1 Game Design/Widgets/Main Widgets.md",
     "1 Game Design/Improvement/1 Improvement.md",
     "1 Game Design/Life Skills/2 Recipes/0 Description.md",
     "2 Technical Design/Content Browser.md",
@@ -215,7 +216,6 @@
     "1 Game Design/General/Orders.md",
     "1 Game Design/General/NPC.md",
     "1 Game Design/General/Narrative.md",
-    "1 Game Design/Combat/Features/Добивания.md",
     "4 Graveyard",
     "1 Game Design/General/World.canvas",
     "Files/ИС032 Грунт (стилобат).dwg",
