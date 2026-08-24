@@ -11,24 +11,10 @@
             "id": "5bf52f029164b63a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -179,7 +165,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5bf52f029164b63a",
+  "active": "ea8c6d9763ff3e94",
   "lastOpenFiles": [
     "1 Game Design/Widgets/Description.md",
     "Tasks.md",
