@@ -1,4 +1,3 @@
-
 ### Типы урона
 - Hit Damage
 - Damage Over Time (DOT)
