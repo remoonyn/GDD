@@ -10,9 +10,9 @@ C:
 V:
 W+LBM:
 W+RBM:
-W+F:
 W+Q:
 W+E:
+W+F:
 S+Q:
 S+E:
 S+F:
@@ -28,3 +28,13 @@ Shift+Z:
 Shift+X:
 Shift+C:
 Shift+V:
+
+
+Потенциально:
+A+LBM
+A+RBM
+D+LBM
+D+RBM
+Shift+W - Дэш вперед, как вариант на некоторых оружиях
+
+
