@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/Combat/Weapons Skills/Skills Lists/0 Available Keys.md",
+                "file": "1 Game Design/Attributes/Attributes — Hidden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 Available Keys"
+              "title": "Attributes — Hidden"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Other/Resume.md",
+                "file": "1 Game Design/Future/Building - Рабочие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Resume"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -125,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 Game Design/Future/Building - Рабочие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,51 +182,51 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
-    "1 Game Design/Combat/Weapons Skills/Skills Lists/1 Gauntlet.md",
-    "1 Game Design/Combat/Weapons Skills/Skills Lists/0 References Animation.md",
-    "1 Game Design/Combat/Weapons Skills/Skills Lists/2 Sword.md",
-    "1 Game Design/Combat/Agression.md",
-    "1 Game Design/Combat/Weapons/0 Weapon List.md",
-    "1 Game Design/Combat/Weapons/Shield.md",
-    "1 Game Design/Combat/Weapons Skills/Skills Lists/0 Available Keys.md",
-    "1 Game Design/Combat/Combat.canvas",
+    "4 Level Design/Introduction Level Design.md",
+    "2 Technical Details/Data Base Tables.canvas",
+    "2 Technical Details/Gameplay Tags.canvas",
+    "0 Glossary/Glossary.md",
+    "Приоритеты и задачи.md",
+    "1 Game Design/World/1 Intoduction World.md",
+    "1 Game Design/World/Биомы и локации.md",
+    "1 Game Design/World/Особняк.md",
+    "1 Game Design/World/Морской контент.md",
+    "1 Game Design/World/Diminishing Returns.md",
+    "1 Game Design/World/Chatacter Status.md",
+    "1 Game Design/World/Поезда и железные дороги.md",
+    "1 Game Design/World/Строительство ж.д. путей.md",
+    "3 Art & Visual/Widgets/World Map.md",
     "1 Game Design/Economy/Gold Sink.md",
-    "1 Game Design/Economy/No Pay To Win.md",
-    "1 Game Design/Attributes/Parameters.md",
-    "1 Game Design/Attributes/Attributes.canvas",
-    "1 Game Design/General/Progression.canvas",
-    "1 Game Design/General/PvE.canvas",
-    "1 Game Design/Economy/Закон убывающей отдачи.md",
-    "1 Game Design/Economy/Дизайн игровых костюмов.md",
-    "1 Game Design/Economy/Прибыльность игровых активностей.md",
-    "1 Game Design/General/Equipment Durablity.md",
-    "1 Game Design/General/Equipment Slots.md",
-    "1 Game Design/Combat/Features/Добивания.md",
-    "1 Game Design/General/Relics.md",
-    "1 Game Design/General/Relics.canvas",
-    "1 Game Design/General/Retention.md",
-    "1 Game Design/Economy/Игровой магазин.md",
-    "1 Game Design/Economy/Зарабатывание золота.md",
-    "1 Game Design/PvP/TBD Arena & Battleground.md",
-    "1 Game Design/PvP/PvP Content.md",
-    "1 Game Design/PvP/Guild Wars.md",
-    "1 Game Design/PvP/Караваны.md",
-    "1 Game Design/PvP/Siege/Royal Wars.md",
-    "1 Game Design/PvP/Siege/Impact.md",
-    "1 Game Design/Combat/Weapon.canvas",
-    "1 Game Design/General/Buildings.canvas",
-    "1 Game Design/General/Equipment Slots.canvas",
-    "1 Game Design/General/Economy.canvas",
-    "1 Game Design/General/Guild.canvas",
-    "4 Graveyard",
-    "Files/ИС032 Грунт (стилобат).dwg",
-    "Files",
-    "Без названия.base",
-    "1 Game Design/Combat/Concepts",
-    "1 Game Design/Combat/Features",
-    "1 Game Design/Combat/Weapons/0 Weapons List",
-    "1 Game Design/Combat/Weapons",
-    "1 Game Design/Economy",
-    "1 Game Design/Professions"
+    "1 Game Design/Economy/Pay To Win.md",
+    "1 Game Design/Economy/Traders.md",
+    "1 Game Design/Economy/Dimonds.md",
+    "1 Game Design/Economy/Game Shop.md",
+    "1 Game Design/Economy/Gold Per Hour.md",
+    "1 Game Design/Economy/Gold.md",
+    "1 Game Design/Future/1 Introduction Future.md",
+    "1 Game Design/Building/1 Introduction Building.md",
+    "1 Game Design/Combat/General/Combat Skill Points.md",
+    "1 Game Design/Combat/General/Crowd Control.md",
+    "1 Game Design/Combat/General/Combat.canvas",
+    "1 Game Design/Combat/General/Agression.md",
+    "1 Game Design/Combat/General/1 Introduction Combat System.md",
+    "1 Game Design/Combat/Weapons Skills/1 Introduction Weapon Skills.md",
+    "1 Game Design/Combat/Weapons/Weapon Types.canvas",
+    "3 Art & Visual/VFX",
+    "1 Game Design/Inventory/1 Introduction",
+    "4 Level Design",
+    "1 Game Design/Без названия",
+    "2 Technical Details/Servers.canvas",
+    "3 Art & Visual/Art",
+    "3 Art & Visual",
+    "0 Glossary",
+    "1 Game Design/Combat/General",
+    "1 Game Design/PvE/Progression",
+    "1 Game Design/PvP/Others",
+    "1 Game Design/PvE/Progression.canvas",
+    "1 Game Design/PvE/PvE.canvas",
+    "2 Technical Details/Relics.canvas",
+    "2 Technical Details/General.canvas",
+    "1 Game Design/Inventory/Inventory.canvas"
   ]
 }
