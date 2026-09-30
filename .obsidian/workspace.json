@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Game Design/Attributes/Attributes — Hidden.md",
+                "file": "1 Game Design/Combat/Weapons Skills/Skills Books/0 Activateable Skill Keys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Attributes — Hidden"
+              "title": "0 Activateable Skill Keys"
             }
           }
         ]
@@ -182,6 +182,23 @@
   },
   "active": "5bf52f029164b63a",
   "lastOpenFiles": [
+    "1 Game Design/Combat/Weapons Skills/Skills Books/0 References Animation.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/1 Skills Book — Gauntlet Skills.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/2 Skills Book — Sword.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/4 Skills Book — Rapier.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/5 Skills Book — Greatsword.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/6 Skills Book — Bow.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/7 Skills Book — Shield.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/3 Skills Book — Grimoire.md",
+    "1 Game Design/Combat/Weapons Skills/1 Introduction Weapon Skills.md",
+    "1 Game Design/Combat/Weapons Skills/Skills Books/0 Activateable Skill Keys.md",
+    "1 Game Design/Combat/Weapons/Weapon Types.canvas",
+    "2 Technical Details/Key Binding.md",
+    "1 Game Design/Combat/Weapons/Weapon List.md",
+    "1 Game Design/Combat/Weapons/Gauntlets.md",
+    "1 Game Design/Combat/Weapons Skills/Skill Activation.md",
+    "1 Game Design/General/Targeting.md",
+    "1 Game Design/Attributes/Attributes — Hidden.md",
     "4 Level Design/Introduction Level Design.md",
     "2 Technical Details/Data Base Tables.canvas",
     "2 Technical Details/Gameplay Tags.canvas",
@@ -194,24 +211,7 @@
     "1 Game Design/World/Diminishing Returns.md",
     "1 Game Design/World/Chatacter Status.md",
     "1 Game Design/World/Поезда и железные дороги.md",
-    "1 Game Design/World/Строительство ж.д. путей.md",
-    "3 Art & Visual/Widgets/World Map.md",
-    "1 Game Design/Economy/Gold Sink.md",
-    "1 Game Design/Economy/Pay To Win.md",
-    "1 Game Design/Economy/Traders.md",
-    "1 Game Design/Economy/Dimonds.md",
-    "1 Game Design/Economy/Game Shop.md",
-    "1 Game Design/Economy/Gold Per Hour.md",
-    "1 Game Design/Economy/Gold.md",
-    "1 Game Design/Future/1 Introduction Future.md",
-    "1 Game Design/Building/1 Introduction Building.md",
-    "1 Game Design/Combat/General/Combat Skill Points.md",
-    "1 Game Design/Combat/General/Crowd Control.md",
     "1 Game Design/Combat/General/Combat.canvas",
-    "1 Game Design/Combat/General/Agression.md",
-    "1 Game Design/Combat/General/1 Introduction Combat System.md",
-    "1 Game Design/Combat/Weapons Skills/1 Introduction Weapon Skills.md",
-    "1 Game Design/Combat/Weapons/Weapon Types.canvas",
     "3 Art & Visual/VFX",
     "1 Game Design/Inventory/1 Introduction",
     "4 Level Design",
