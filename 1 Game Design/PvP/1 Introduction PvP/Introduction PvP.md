@@ -1,0 +1,13 @@
+В игре ПвП доступно в следующих механиках:
+- Player Killer 
+- Bounty Hunter
+- Guilds Wars
+- Deathmatch
+- Siege of Town 
+- Arena
+- Battleground
+- Usurpation of Power
+- Royal War
+- Сaravan Robbery
+- Train Robbery 
+- Naval Battles 
